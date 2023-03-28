@@ -183,7 +183,7 @@ class BankAccount {
 
 
 
-public class ATMINTERFACE {
+public class ATMInterface {
 
     public static void main(String[] args)
     {
